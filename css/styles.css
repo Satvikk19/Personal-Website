@@ -108,7 +108,7 @@ hr{
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
-    font-family: Arial;
+    font-family: 'Montserrat',sans-serif;;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
@@ -137,9 +137,18 @@ hr{
   .footer-link{
     color: #11999E;
     margin-left: 20px;
+    text-decoration: none;
   }
 
   .land-svg{
     height:80%;
     width: 60%;
+  }
+
+  .contact-mepara{
+    margin-bottom: 50px;
+  }
+
+  a:hover{
+    color:whitesmoke;
   }
